@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,div,ul,ol,li,dl,dd,h1,h2,h3,h4,h5,h6,p,form,fieldset,table,td,tr,th,select,input,a,strong,b,em,i,img{margin:0; padding:0;}
+strong,b,em,i{ font:16px "宋体";color:#000;}
+li{ list-style:none;}
+a{text-decoration:none; color:#000;}
+a { blr:expression(this.onFocus=this.blur())}
+a { outline: none; }
+img {display:block; border:none;}
+select, input, img { vertical-align: middle; outline: none; display:block; }
+html { overflow-x: hidden; }
+.clearfix{zoom:1;} 
+.clearfix:after{content:""; clear:both; display:block;}
+.fl{float:left;}
+.fr{float:right;}
